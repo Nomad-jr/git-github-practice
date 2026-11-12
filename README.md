@@ -3,7 +3,7 @@
 Welcome to my first GitHub practice repository!
 
 ## About
-This repository is part of my Software Development Engineering learning journey.
+This repository documents my journey toward becoming a professional software engineer.
 
 ## Developer
 Nomad
